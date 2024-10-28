@@ -6,6 +6,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Hash Table
 |  |
 | ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nisanil03/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Tree
 |  |
@@ -37,6 +38,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nisanil03/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nisanil03/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -49,8 +51,17 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nisanil03/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nisanil03/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Binary Search
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
