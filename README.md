@@ -36,6 +36,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nisanil03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nisanil03/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nisanil03/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nisanil03/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -104,4 +105,8 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisanil03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nisanil03/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
