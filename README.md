@@ -139,4 +139,20 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/nisanil03/Leetcode/tree/master/2716-prime-subtraction-operation) |
+## Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/nisanil03/Leetcode/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/nisanil03/Leetcode/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/nisanil03/Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/nisanil03/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
