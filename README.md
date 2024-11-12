@@ -37,6 +37,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nisanil03/Leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/nisanil03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/nisanil03/Leetcode/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/nisanil03/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -108,6 +109,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nisanil03/Leetcode/tree/master/0136-single-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nisanil03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nisanil03/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
