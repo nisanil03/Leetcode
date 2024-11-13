@@ -27,6 +27,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Breadth-First Search
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/nisanil03/Leetcode/tree/master/1036-rotting-oranges) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nisanil03/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -41,6 +42,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0136-single-number](https://github.com/nisanil03/Leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/nisanil03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/nisanil03/Leetcode/tree/master/0739-daily-temperatures) |
+| [1036-rotting-oranges](https://github.com/nisanil03/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/nisanil03/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/nisanil03/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nisanil03/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -83,6 +85,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/nisanil03/Leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nisanil03/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
