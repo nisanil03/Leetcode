@@ -50,6 +50,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nisanil03/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nisanil03/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nisanil03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/nisanil03/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -94,6 +95,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1046-max-consecutive-ones-iii](https://github.com/nisanil03/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nisanil03/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nisanil03/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nisanil03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/nisanil03/Leetcode/tree/master/2716-prime-subtraction-operation) |
