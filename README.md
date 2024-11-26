@@ -222,4 +222,8 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nisanil03/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/nisanil03/Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
