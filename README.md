@@ -71,6 +71,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nisanil03/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/nisanil03/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nisanil03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nisanil03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/nisanil03/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -89,6 +90,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1777-determine-if-two-strings-are-close](https://github.com/nisanil03/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2580-circular-sentence](https://github.com/nisanil03/Leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nisanil03/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nisanil03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nisanil03/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nisanil03/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/nisanil03/Leetcode/tree/master/3451-string-compression-iii) |
@@ -180,6 +182,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1046-max-consecutive-ones-iii](https://github.com/nisanil03/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nisanil03/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nisanil03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
 | ------- |
