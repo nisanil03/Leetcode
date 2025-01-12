@@ -103,6 +103,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1777-determine-if-two-strings-are-close](https://github.com/nisanil03/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nisanil03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nisanil03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nisanil03/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nisanil03/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/nisanil03/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/nisanil03/Leetcode/tree/master/2580-circular-sentence) |
@@ -167,6 +168,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1502-construct-k-palindrome-strings](https://github.com/nisanil03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nisanil03/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/nisanil03/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nisanil03/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2716-prime-subtraction-operation](https://github.com/nisanil03/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## String Matching
 |  |
@@ -237,6 +239,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0739-daily-temperatures](https://github.com/nisanil03/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/nisanil03/Leetcode/tree/master/0937-online-stock-span) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nisanil03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nisanil03/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Design
 |  |
 | ------- |
