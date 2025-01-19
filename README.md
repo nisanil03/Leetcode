@@ -311,4 +311,8 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nisanil03/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
