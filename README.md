@@ -32,6 +32,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/nisanil03/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nisanil03/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nisanil03/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -40,6 +41,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0407-trapping-rain-water-ii](https://github.com/nisanil03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/nisanil03/Leetcode/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/nisanil03/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -66,6 +68,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nisanil03/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/nisanil03/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nisanil03/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nisanil03/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -151,6 +154,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/nisanil03/Leetcode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nisanil03/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nisanil03/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/nisanil03/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -215,6 +219,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/nisanil03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/nisanil03/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nisanil03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -324,4 +329,8 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/nisanil03/Leetcode/tree/master/0175-combine-two-tables) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
