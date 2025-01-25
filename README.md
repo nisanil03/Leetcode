@@ -103,6 +103,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nisanil03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nisanil03/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nisanil03/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nisanil03/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nisanil03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nisanil03/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -187,6 +188,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2554-minimum-total-distance-traveled](https://github.com/nisanil03/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nisanil03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nisanil03/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nisanil03/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
@@ -336,6 +338,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nisanil03/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
