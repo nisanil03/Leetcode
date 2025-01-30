@@ -53,6 +53,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1558-course-schedule-iv](https://github.com/nisanil03/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/nisanil03/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nisanil03/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nisanil03/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -325,6 +326,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/nisanil03/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nisanil03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nisanil03/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3189-find-champion-ii](https://github.com/nisanil03/Leetcode/tree/master/3189-find-champion-ii) |
 ## Rolling Hash
 |  |
@@ -351,6 +353,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | ------- |
 | [0684-redundant-connection](https://github.com/nisanil03/Leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nisanil03/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nisanil03/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
