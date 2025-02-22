@@ -34,6 +34,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/nisanil03/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/nisanil03/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nisanil03/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nisanil03/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -44,6 +45,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0820-find-eventual-safe-states](https://github.com/nisanil03/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/nisanil03/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/nisanil03/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nisanil03/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nisanil03/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -74,6 +76,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/nisanil03/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/nisanil03/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nisanil03/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nisanil03/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -151,6 +154,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0345-reverse-vowels-of-a-string](https://github.com/nisanil03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/nisanil03/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/nisanil03/Leetcode/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/nisanil03/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/nisanil03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nisanil03/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nisanil03/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
