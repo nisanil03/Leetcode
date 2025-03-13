@@ -169,6 +169,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nisanil03/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/nisanil03/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nisanil03/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3643-zero-array-transformation-ii](https://github.com/nisanil03/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -260,6 +261,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2699-count-the-number-of-fair-pairs](https://github.com/nisanil03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/nisanil03/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nisanil03/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3643-zero-array-transformation-ii](https://github.com/nisanil03/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -341,6 +343,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2358-number-of-ways-to-split-array](https://github.com/nisanil03/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/nisanil03/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nisanil03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/nisanil03/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
