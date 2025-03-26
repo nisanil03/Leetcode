@@ -137,6 +137,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2089-maximum-matrix-sum](https://github.com/nisanil03/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/nisanil03/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/nisanil03/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nisanil03/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nisanil03/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nisanil03/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -258,6 +259,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1972-rotating-the-box](https://github.com/nisanil03/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/nisanil03/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/nisanil03/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nisanil03/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nisanil03/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nisanil03/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -285,6 +287,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/nisanil03/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nisanil03/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nisanil03/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2554-minimum-total-distance-traveled](https://github.com/nisanil03/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -394,6 +397,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1477-product-of-the-last-k-numbers](https://github.com/nisanil03/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nisanil03/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nisanil03/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nisanil03/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/nisanil03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nisanil03/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nisanil03/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
