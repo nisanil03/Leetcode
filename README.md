@@ -6,6 +6,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nisanil03/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nisanil03/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/nisanil03/Leetcode/tree/master/0952-word-subsets) |
@@ -194,6 +195,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisanil03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/nisanil03/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/nisanil03/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nisanil03/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -309,6 +311,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/nisanil03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nisanil03/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/nisanil03/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -361,6 +364,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisanil03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nisanil03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/nisanil03/Leetcode/tree/master/1972-rotating-the-box) |
 | [2551-apply-operations-to-an-array](https://github.com/nisanil03/Leetcode/tree/master/2551-apply-operations-to-an-array) |
