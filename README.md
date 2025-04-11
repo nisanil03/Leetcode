@@ -445,6 +445,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2649-count-total-number-of-colored-cells](https://github.com/nisanil03/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/nisanil03/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nisanil03/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/nisanil03/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/nisanil03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/nisanil03/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/nisanil03/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -593,4 +594,5 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nisanil03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/nisanil03/Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
