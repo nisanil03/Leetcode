@@ -216,6 +216,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/nisanil03/Leetcode/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisanil03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/nisanil03/Leetcode/tree/master/0812-rotate-string) |
