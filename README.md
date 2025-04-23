@@ -275,6 +275,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nisanil03/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nisanil03/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/nisanil03/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/nisanil03/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/nisanil03/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/nisanil03/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -452,6 +453,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nisanil03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/nisanil03/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nisanil03/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/nisanil03/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/nisanil03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nisanil03/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nisanil03/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -465,6 +467,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/nisanil03/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nisanil03/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/nisanil03/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/nisanil03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -605,6 +608,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nisanil03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/nisanil03/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/nisanil03/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
