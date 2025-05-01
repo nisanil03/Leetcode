@@ -159,6 +159,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2145-grid-game](https://github.com/nisanil03/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nisanil03/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nisanil03/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nisanil03/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nisanil03/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/nisanil03/Leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -322,6 +323,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nisanil03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nisanil03/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nisanil03/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nisanil03/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nisanil03/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -340,6 +342,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1777-determine-if-two-strings-are-close](https://github.com/nisanil03/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nisanil03/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nisanil03/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nisanil03/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2554-minimum-total-distance-traveled](https://github.com/nisanil03/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -359,6 +362,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1502-construct-k-palindrome-strings](https://github.com/nisanil03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nisanil03/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/nisanil03/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nisanil03/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nisanil03/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nisanil03/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/nisanil03/Leetcode/tree/master/2509-minimize-xor) |
@@ -523,6 +527,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nisanil03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nisanil03/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nisanil03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nisanil03/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
@@ -540,6 +545,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nisanil03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nisanil03/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nisanil03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Simulation
 |  |
