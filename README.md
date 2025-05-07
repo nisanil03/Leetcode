@@ -225,6 +225,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3483-alternating-groups-ii](https://github.com/nisanil03/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nisanil03/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nisanil03/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nisanil03/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/nisanil03/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nisanil03/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/nisanil03/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -321,6 +322,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/nisanil03/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nisanil03/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -551,6 +553,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nisanil03/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/nisanil03/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nisanil03/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nisanil03/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -581,6 +584,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2793-count-the-number-of-complete-components](https://github.com/nisanil03/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/nisanil03/Leetcode/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nisanil03/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nisanil03/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -598,6 +602,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nisanil03/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nisanil03/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Database
 |  |
 | ------- |
