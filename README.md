@@ -132,6 +132,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nisanil03/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nisanil03/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nisanil03/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/nisanil03/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/nisanil03/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nisanil03/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nisanil03/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
