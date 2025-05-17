@@ -117,6 +117,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nisanil03/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nisanil03/Leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/nisanil03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/nisanil03/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -367,6 +368,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nisanil03/Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/nisanil03/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1777-determine-if-two-strings-are-close](https://github.com/nisanil03/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nisanil03/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -449,6 +451,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nisanil03/Leetcode/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisanil03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/nisanil03/Leetcode/tree/master/0868-push-dominoes) |
