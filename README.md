@@ -563,6 +563,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2998-count-symmetric-integers](https://github.com/nisanil03/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/nisanil03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nisanil03/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/nisanil03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/nisanil03/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/nisanil03/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/nisanil03/Leetcode/tree/master/3321-type-of-triangle) |
@@ -730,6 +731,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nisanil03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nisanil03/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3201-distribute-candies-among-children-ii](https://github.com/nisanil03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/nisanil03/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nisanil03/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
@@ -739,6 +741,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nisanil03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nisanil03/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/nisanil03/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/nisanil03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/nisanil03/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
