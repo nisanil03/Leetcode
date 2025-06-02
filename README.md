@@ -131,6 +131,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nisanil03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nisanil03/Leetcode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/nisanil03/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/nisanil03/Leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/nisanil03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/nisanil03/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -420,6 +421,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/nisanil03/Leetcode/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nisanil03/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/nisanil03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
