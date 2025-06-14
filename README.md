@@ -226,6 +226,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2699-count-the-number-of-fair-pairs](https://github.com/nisanil03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nisanil03/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/nisanil03/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nisanil03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nisanil03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nisanil03/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -404,6 +405,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2690-house-robber-iv](https://github.com/nisanil03/Leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nisanil03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/nisanil03/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nisanil03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nisanil03/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3643-zero-array-transformation-ii](https://github.com/nisanil03/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
@@ -449,6 +451,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2681-put-marbles-in-bags](https://github.com/nisanil03/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nisanil03/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/nisanil03/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nisanil03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/nisanil03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nisanil03/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nisanil03/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
