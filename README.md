@@ -773,6 +773,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nisanil03/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/nisanil03/Leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
 |  |
@@ -790,4 +791,8 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nisanil03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nisanil03/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
