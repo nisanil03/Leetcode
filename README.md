@@ -369,6 +369,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nisanil03/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nisanil03/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nisanil03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nisanil03/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/nisanil03/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nisanil03/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/nisanil03/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -854,6 +855,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nisanil03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nisanil03/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Linked List
 |  |
 | ------- |
