@@ -224,6 +224,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nisanil03/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/nisanil03/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/nisanil03/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nisanil03/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nisanil03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nisanil03/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -450,6 +451,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nisanil03/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nisanil03/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/nisanil03/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nisanil03/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2554-minimum-total-distance-traveled](https://github.com/nisanil03/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nisanil03/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -482,6 +484,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nisanil03/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nisanil03/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nisanil03/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nisanil03/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/nisanil03/Leetcode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nisanil03/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/nisanil03/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -559,6 +562,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nisanil03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/nisanil03/Leetcode/tree/master/1972-rotating-the-box) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nisanil03/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/nisanil03/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nisanil03/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nisanil03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
