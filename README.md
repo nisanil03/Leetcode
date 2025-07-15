@@ -335,6 +335,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nisanil03/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nisanil03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nisanil03/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/nisanil03/Leetcode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nisanil03/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/nisanil03/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/nisanil03/Leetcode/tree/master/3451-string-compression-iii) |
