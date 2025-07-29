@@ -236,6 +236,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2478-longest-nice-subarray](https://github.com/nisanil03/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/nisanil03/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nisanil03/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nisanil03/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nisanil03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nisanil03/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -449,6 +450,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nisanil03/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nisanil03/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nisanil03/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nisanil03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nisanil03/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -544,6 +546,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nisanil03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nisanil03/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/nisanil03/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nisanil03/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2509-minimize-xor](https://github.com/nisanil03/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nisanil03/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nisanil03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -630,6 +633,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nisanil03/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nisanil03/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/nisanil03/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nisanil03/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nisanil03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nisanil03/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nisanil03/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
