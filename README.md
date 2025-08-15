@@ -565,6 +565,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | ------- |
 | [0136-single-number](https://github.com/nisanil03/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nisanil03/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/nisanil03/Leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nisanil03/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nisanil03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -688,6 +689,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | ------- |
 | [0231-power-of-two](https://github.com/nisanil03/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nisanil03/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nisanil03/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/nisanil03/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/nisanil03/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/nisanil03/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -927,6 +929,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0206-reverse-linked-list](https://github.com/nisanil03/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nisanil03/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nisanil03/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nisanil03/Leetcode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/nisanil03/Leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
 |  |
