@@ -158,6 +158,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0368-largest-divisible-subset](https://github.com/nisanil03/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/nisanil03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nisanil03/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0679-24-game](https://github.com/nisanil03/Leetcode/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/nisanil03/Leetcode/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
@@ -694,6 +695,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0326-power-of-three](https://github.com/nisanil03/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nisanil03/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/nisanil03/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/nisanil03/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/nisanil03/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/nisanil03/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/nisanil03/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -890,6 +892,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/nisanil03/Leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/nisanil03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nisanil03/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nisanil03/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
