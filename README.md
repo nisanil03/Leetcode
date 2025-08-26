@@ -158,6 +158,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0368-largest-divisible-subset](https://github.com/nisanil03/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/nisanil03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nisanil03/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/nisanil03/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/nisanil03/Leetcode/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/nisanil03/Leetcode/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -443,6 +444,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nisanil03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/nisanil03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/nisanil03/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/nisanil03/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -821,6 +823,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/nisanil03/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/nisanil03/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nisanil03/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nisanil03/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
