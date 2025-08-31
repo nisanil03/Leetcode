@@ -7,6 +7,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nisanil03/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nisanil03/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nisanil03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/nisanil03/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -151,6 +152,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nisanil03/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nisanil03/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nisanil03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nisanil03/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/nisanil03/Leetcode/tree/master/0118-pascals-triangle) |
@@ -448,6 +450,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nisanil03/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nisanil03/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nisanil03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/nisanil03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/nisanil03/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -920,6 +923,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nisanil03/Leetcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/nisanil03/Leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/nisanil03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nisanil03/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
