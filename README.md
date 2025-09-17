@@ -42,6 +42,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nisanil03/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nisanil03/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nisanil03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2429-design-a-food-rating-system](https://github.com/nisanil03/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nisanil03/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/nisanil03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nisanil03/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -254,6 +255,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nisanil03/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nisanil03/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nisanil03/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/nisanil03/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nisanil03/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/nisanil03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/nisanil03/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -380,6 +382,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nisanil03/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nisanil03/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nisanil03/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/nisanil03/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nisanil03/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nisanil03/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/nisanil03/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -824,6 +827,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nisanil03/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nisanil03/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nisanil03/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/nisanil03/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nisanil03/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Stack
 |  |
@@ -855,6 +859,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/nisanil03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nisanil03/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/nisanil03/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nisanil03/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nisanil03/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/nisanil03/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -958,6 +963,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/nisanil03/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nisanil03/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/nisanil03/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nisanil03/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
