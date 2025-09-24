@@ -9,6 +9,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0036-valid-sudoku](https://github.com/nisanil03/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nisanil03/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nisanil03/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nisanil03/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/nisanil03/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nisanil03/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -360,6 +361,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | ------- |
 | [0038-count-and-say](https://github.com/nisanil03/Leetcode/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/nisanil03/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nisanil03/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisanil03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/nisanil03/Leetcode/tree/master/0812-rotate-string) |
@@ -761,6 +763,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/nisanil03/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/nisanil03/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nisanil03/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nisanil03/Leetcode/tree/master/0342-power-of-four) |
