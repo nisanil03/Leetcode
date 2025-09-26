@@ -175,6 +175,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0407-trapping-rain-water-ii](https://github.com/nisanil03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nisanil03/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/nisanil03/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/nisanil03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/nisanil03/Leetcode/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/nisanil03/Leetcode/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -521,6 +522,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/nisanil03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nisanil03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/nisanil03/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nisanil03/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -552,6 +554,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | ------- |
 | [0075-sort-colors](https://github.com/nisanil03/Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/nisanil03/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0611-valid-triangle-number](https://github.com/nisanil03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/nisanil03/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nisanil03/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1777-determine-if-two-strings-are-close](https://github.com/nisanil03/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -589,6 +592,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0135-candy](https://github.com/nisanil03/Leetcode/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/nisanil03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nisanil03/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/nisanil03/Leetcode/tree/master/1448-maximum-69-number) |
@@ -693,6 +697,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0075-sort-colors](https://github.com/nisanil03/Leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/nisanil03/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisanil03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0611-valid-triangle-number](https://github.com/nisanil03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/nisanil03/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/nisanil03/Leetcode/tree/master/0908-middle-of-the-linked-list) |
