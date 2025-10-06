@@ -104,6 +104,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0386-lexicographical-numbers](https://github.com/nisanil03/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nisanil03/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/nisanil03/Leetcode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/nisanil03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/nisanil03/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/nisanil03/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -130,6 +131,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0417-pacific-atlantic-water-flow](https://github.com/nisanil03/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/nisanil03/Leetcode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/nisanil03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/nisanil03/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/nisanil03/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -183,6 +185,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0679-24-game](https://github.com/nisanil03/Leetcode/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/nisanil03/Leetcode/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/nisanil03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/nisanil03/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nisanil03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -502,6 +505,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0417-pacific-atlantic-water-flow](https://github.com/nisanil03/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/nisanil03/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/nisanil03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/nisanil03/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/nisanil03/Leetcode/tree/master/1036-rotting-oranges) |
@@ -533,6 +537,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/nisanil03/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/nisanil03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nisanil03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/nisanil03/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nisanil03/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -903,6 +908,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/nisanil03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/nisanil03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nisanil03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nisanil03/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -995,6 +1001,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/nisanil03/Leetcode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/nisanil03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nisanil03/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
