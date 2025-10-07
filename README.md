@@ -29,6 +29,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1500-count-largest-group](https://github.com/nisanil03/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/nisanil03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/nisanil03/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1777-determine-if-two-strings-are-close](https://github.com/nisanil03/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/nisanil03/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/nisanil03/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -220,6 +221,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1510-find-lucky-integer-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nisanil03/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/nisanil03/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nisanil03/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nisanil03/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/nisanil03/Leetcode/tree/master/1656-count-good-triplets) |
@@ -541,6 +543,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nisanil03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/nisanil03/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nisanil03/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1612-avoid-flood-in-the-city](https://github.com/nisanil03/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nisanil03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nisanil03/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nisanil03/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -617,6 +620,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nisanil03/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/nisanil03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nisanil03/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/nisanil03/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nisanil03/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nisanil03/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/nisanil03/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -912,6 +916,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nisanil03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nisanil03/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1612-avoid-flood-in-the-city](https://github.com/nisanil03/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/nisanil03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/nisanil03/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nisanil03/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
