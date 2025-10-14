@@ -355,6 +355,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nisanil03/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nisanil03/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nisanil03/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nisanil03/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nisanil03/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nisanil03/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nisanil03/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
