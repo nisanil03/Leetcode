@@ -319,6 +319,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nisanil03/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nisanil03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nisanil03/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nisanil03/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nisanil03/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nisanil03/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -608,6 +609,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nisanil03/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nisanil03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nisanil03/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nisanil03/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/nisanil03/Leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nisanil03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -697,6 +699,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nisanil03/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/nisanil03/Leetcode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nisanil03/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nisanil03/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nisanil03/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/nisanil03/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/nisanil03/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -824,6 +827,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nisanil03/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/nisanil03/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/nisanil03/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nisanil03/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nisanil03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/nisanil03/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nisanil03/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -856,6 +860,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nisanil03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nisanil03/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nisanil03/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nisanil03/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nisanil03/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nisanil03/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -999,6 +1004,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nisanil03/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nisanil03/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/nisanil03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nisanil03/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nisanil03/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/nisanil03/Leetcode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
