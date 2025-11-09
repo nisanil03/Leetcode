@@ -531,6 +531,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2554-minimum-total-distance-traveled](https://github.com/nisanil03/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/nisanil03/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nisanil03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nisanil03/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nisanil03/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -651,6 +652,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2681-put-marbles-in-bags](https://github.com/nisanil03/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/nisanil03/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nisanil03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nisanil03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/nisanil03/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nisanil03/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/nisanil03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
