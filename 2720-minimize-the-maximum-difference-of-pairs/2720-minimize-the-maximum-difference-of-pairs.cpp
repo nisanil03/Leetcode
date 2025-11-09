@@ -1,20 +1,22 @@
 class Solution {
 public:
-    int minimizeMax(vector<int>& nums, int p) {
-        if (p == 0) return 0;
-        sort(nums.begin(), nums.end());
-        int n = nums.size(), left = 0, right = nums[n - 1] - nums[0];
+    int minimizeMax(vector<int>& v, int p) {
+        int n = v.size();
+        sort(v.begin(), v.end());
 
-        while (left < right) {
-            int mid = left + (right - left) / 2, pairs = 0;
-            for (int i = 1; i < n; ++i) {
-                if (mid >= nums[i] - nums[i - 1]) {
-                    ++pairs, ++i;
+        int lo = -1 , hi = 1e9 + 7;
+        while(lo < hi - 1){
+            int mid = lo + (hi - lo) / 2;
+            int a = 0;
+            for(int i = 1; i < n; i++){
+                if(v[i] - v[i -1] <= mid){
+                    a++;
+                    i++;
                 }
             }
-            if (pairs >= p) right = mid;
-            else left = mid + 1;
+            if(a >= p) hi = mid;
+            else lo = mid;
         }
-        return left;
+        return hi;
     }
 };
