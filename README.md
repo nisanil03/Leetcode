@@ -218,6 +218,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0952-word-subsets](https://github.com/nisanil03/Leetcode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/nisanil03/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/nisanil03/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/nisanil03/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/nisanil03/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/nisanil03/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/nisanil03/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -762,6 +763,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0231-power-of-two](https://github.com/nisanil03/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nisanil03/Leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nisanil03/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/nisanil03/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nisanil03/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nisanil03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
