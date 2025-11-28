@@ -110,6 +110,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nisanil03/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nisanil03/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/nisanil03/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nisanil03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nisanil03/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nisanil03/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -139,6 +140,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2677-cousins-in-binary-tree-ii](https://github.com/nisanil03/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/nisanil03/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/nisanil03/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nisanil03/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nisanil03/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/nisanil03/Leetcode/tree/master/3863-power-grid-maintenance) |
