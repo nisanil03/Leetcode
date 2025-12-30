@@ -12,6 +12,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0166-fraction-to-recurring-decimal](https://github.com/nisanil03/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0756-pyramid-transition-matrix](https://github.com/nisanil03/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
+| [0840-magic-squares-in-grid](https://github.com/nisanil03/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/nisanil03/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nisanil03/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nisanil03/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -224,6 +225,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/nisanil03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/nisanil03/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/nisanil03/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nisanil03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nisanil03/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -635,6 +637,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0498-diagonal-traverse](https://github.com/nisanil03/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/nisanil03/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/nisanil03/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/nisanil03/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/nisanil03/Leetcode/tree/master/1036-rotting-oranges) |
@@ -1005,6 +1008,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0679-24-game](https://github.com/nisanil03/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/nisanil03/Leetcode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/nisanil03/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/nisanil03/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/nisanil03/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/nisanil03/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nisanil03/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
