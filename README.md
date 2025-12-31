@@ -142,6 +142,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/nisanil03/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nisanil03/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/nisanil03/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/nisanil03/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nisanil03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nisanil03/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -176,6 +177,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1558-course-schedule-iv](https://github.com/nisanil03/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nisanil03/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/nisanil03/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/nisanil03/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/nisanil03/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nisanil03/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nisanil03/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -289,6 +291,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1917-maximum-average-pass-ratio](https://github.com/nisanil03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nisanil03/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/nisanil03/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/nisanil03/Leetcode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nisanil03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nisanil03/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -648,6 +651,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nisanil03/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/nisanil03/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/nisanil03/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/nisanil03/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/nisanil03/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/nisanil03/Leetcode/tree/master/2145-grid-game) |
@@ -682,6 +686,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nisanil03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nisanil03/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nisanil03/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/nisanil03/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nisanil03/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nisanil03/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1268,6 +1273,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nisanil03/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/nisanil03/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/nisanil03/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nisanil03/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nisanil03/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
