@@ -105,6 +105,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nisanil03/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/nisanil03/Leetcode/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/nisanil03/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/nisanil03/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nisanil03/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nisanil03/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/nisanil03/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -598,6 +599,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3637-count-number-of-balanced-permutations](https://github.com/nisanil03/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nisanil03/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/nisanil03/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/nisanil03/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nisanil03/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nisanil03/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nisanil03/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1032,6 +1034,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3643-zero-array-transformation-ii](https://github.com/nisanil03/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/nisanil03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nisanil03/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/nisanil03/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nisanil03/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nisanil03/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nisanil03/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
