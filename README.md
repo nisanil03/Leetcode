@@ -515,6 +515,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/nisanil03/Leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/nisanil03/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/nisanil03/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nisanil03/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisanil03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -905,6 +906,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nisanil03/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nisanil03/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nisanil03/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nisanil03/Leetcode/tree/master/0342-power-of-four) |
@@ -1081,6 +1083,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nisanil03/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nisanil03/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nisanil03/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/nisanil03/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nisanil03/Leetcode/tree/master/0326-power-of-three) |
@@ -1275,6 +1278,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nisanil03/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/nisanil03/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/nisanil03/Leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/nisanil03/Leetcode/tree/master/2048-build-array-from-permutation) |
