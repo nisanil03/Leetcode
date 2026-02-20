@@ -521,6 +521,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0345-reverse-vowels-of-a-string](https://github.com/nisanil03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0474-ones-and-zeroes](https://github.com/nisanil03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0756-pyramid-transition-matrix](https://github.com/nisanil03/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/nisanil03/Leetcode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/nisanil03/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/nisanil03/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/nisanil03/Leetcode/tree/master/0868-push-dominoes) |
@@ -784,6 +785,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0368-largest-divisible-subset](https://github.com/nisanil03/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0611-valid-triangle-number](https://github.com/nisanil03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/nisanil03/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/nisanil03/Leetcode/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/nisanil03/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/nisanil03/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nisanil03/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1421,6 +1423,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/nisanil03/Leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/nisanil03/Leetcode/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nisanil03/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Combinatorics
