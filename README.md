@@ -917,6 +917,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0693-binary-number-with-alternating-bits](https://github.com/nisanil03/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/nisanil03/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nisanil03/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/nisanil03/Leetcode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nisanil03/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nisanil03/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nisanil03/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
