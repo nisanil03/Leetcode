@@ -931,6 +931,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nisanil03/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nisanil03/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nisanil03/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nisanil03/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nisanil03/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/nisanil03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nisanil03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1131,6 +1132,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nisanil03/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nisanil03/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/nisanil03/Leetcode/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nisanil03/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nisanil03/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nisanil03/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/nisanil03/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -1302,6 +1304,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0498-diagonal-traverse](https://github.com/nisanil03/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nisanil03/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/nisanil03/Leetcode/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nisanil03/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/nisanil03/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nisanil03/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/nisanil03/Leetcode/tree/master/2169-simple-bank-system) |
