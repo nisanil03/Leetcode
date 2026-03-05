@@ -559,6 +559,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nisanil03/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/nisanil03/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nisanil03/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nisanil03/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/nisanil03/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nisanil03/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nisanil03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
