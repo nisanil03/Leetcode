@@ -1286,6 +1286,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nisanil03/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nisanil03/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nisanil03/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/nisanil03/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/nisanil03/Leetcode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/nisanil03/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Number Theory
