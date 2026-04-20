@@ -344,6 +344,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nisanil03/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/nisanil03/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/nisanil03/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/nisanil03/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nisanil03/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/nisanil03/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/nisanil03/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -957,6 +958,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nisanil03/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/nisanil03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/nisanil03/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/nisanil03/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/nisanil03/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nisanil03/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nisanil03/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
