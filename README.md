@@ -67,6 +67,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nisanil03/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nisanil03/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2615-sum-of-distances](https://github.com/nisanil03/Leetcode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nisanil03/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nisanil03/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nisanil03/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -413,6 +414,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2586-longest-square-streak-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nisanil03/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nisanil03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/nisanil03/Leetcode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/nisanil03/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/nisanil03/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nisanil03/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1142,6 +1144,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2465-shifting-letters-ii](https://github.com/nisanil03/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nisanil03/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/nisanil03/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/nisanil03/Leetcode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/nisanil03/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/nisanil03/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nisanil03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
