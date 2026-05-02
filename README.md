@@ -694,6 +694,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0368-largest-divisible-subset](https://github.com/nisanil03/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nisanil03/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/nisanil03/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0788-rotated-digits](https://github.com/nisanil03/Leetcode/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/nisanil03/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/nisanil03/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/nisanil03/Leetcode/tree/master/0867-new-21-game) |
@@ -1236,6 +1237,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0368-largest-divisible-subset](https://github.com/nisanil03/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/nisanil03/Leetcode/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nisanil03/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/nisanil03/Leetcode/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/nisanil03/Leetcode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/nisanil03/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/nisanil03/Leetcode/tree/master/0840-magic-squares-in-grid) |
