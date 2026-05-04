@@ -239,6 +239,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0011-container-with-most-water](https://github.com/nisanil03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/nisanil03/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nisanil03/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/nisanil03/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nisanil03/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nisanil03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nisanil03/Leetcode/tree/master/0075-sort-colors) |
@@ -768,6 +769,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | ------- |
 | [0036-valid-sudoku](https://github.com/nisanil03/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nisanil03/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/nisanil03/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nisanil03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/nisanil03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nisanil03/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1228,6 +1230,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nisanil03/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nisanil03/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nisanil03/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nisanil03/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
