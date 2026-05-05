@@ -1115,6 +1115,7 @@ Leetcode code saved in this Daily problem solution in this repo
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nisanil03/Leetcode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/nisanil03/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/nisanil03/Leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/nisanil03/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nisanil03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1677,6 +1678,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/nisanil03/Leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/nisanil03/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nisanil03/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nisanil03/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
