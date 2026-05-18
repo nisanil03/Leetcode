@@ -28,6 +28,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nisanil03/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nisanil03/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/nisanil03/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1345-jump-game-iv](https://github.com/nisanil03/Leetcode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nisanil03/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/nisanil03/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nisanil03/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -202,6 +203,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nisanil03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nisanil03/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/nisanil03/Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/nisanil03/Leetcode/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nisanil03/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nisanil03/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/nisanil03/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -302,6 +304,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1306-jump-game-iii](https://github.com/nisanil03/Leetcode/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/nisanil03/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nisanil03/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/nisanil03/Leetcode/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nisanil03/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nisanil03/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nisanil03/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
