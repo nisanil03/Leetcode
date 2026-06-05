@@ -807,6 +807,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/nisanil03/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nisanil03/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nisanil03/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nisanil03/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/nisanil03/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Matrix
 |  |
@@ -1391,6 +1392,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/nisanil03/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nisanil03/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nisanil03/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nisanil03/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nisanil03/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nisanil03/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nisanil03/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
