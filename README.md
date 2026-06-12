@@ -150,6 +150,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2872-maximum-number-of-k-divisible-components](https://github.com/nisanil03/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nisanil03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nisanil03/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nisanil03/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nisanil03/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nisanil03/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nisanil03/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -191,6 +192,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2793-count-the-number-of-complete-components](https://github.com/nisanil03/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/nisanil03/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nisanil03/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nisanil03/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nisanil03/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nisanil03/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nisanil03/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -551,6 +553,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3531-count-covered-buildings](https://github.com/nisanil03/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nisanil03/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/nisanil03/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nisanil03/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nisanil03/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nisanil03/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/nisanil03/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -804,6 +807,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nisanil03/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nisanil03/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nisanil03/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nisanil03/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nisanil03/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/nisanil03/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nisanil03/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -1150,6 +1154,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nisanil03/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/nisanil03/Leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nisanil03/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nisanil03/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nisanil03/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nisanil03/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/nisanil03/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1395,6 +1400,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nisanil03/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3548-find-the-count-of-good-integers](https://github.com/nisanil03/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nisanil03/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nisanil03/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nisanil03/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nisanil03/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nisanil03/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
