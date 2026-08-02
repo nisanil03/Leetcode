@@ -105,6 +105,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nisanil03/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nisanil03/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/nisanil03/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nisanil03/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/nisanil03/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/nisanil03/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/nisanil03/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -743,6 +744,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3474-lexicographically-smallest-generated-string](https://github.com/nisanil03/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nisanil03/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nisanil03/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nisanil03/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nisanil03/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/nisanil03/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/nisanil03/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -1236,6 +1238,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nisanil03/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nisanil03/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nisanil03/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nisanil03/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/nisanil03/Leetcode/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nisanil03/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/nisanil03/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1460,6 +1463,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3433-count-mentions-per-user](https://github.com/nisanil03/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/nisanil03/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nisanil03/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nisanil03/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/nisanil03/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nisanil03/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nisanil03/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1779,6 +1783,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2324-find-triangular-sum-of-an-array](https://github.com/nisanil03/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nisanil03/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nisanil03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nisanil03/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/nisanil03/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nisanil03/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nisanil03/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
