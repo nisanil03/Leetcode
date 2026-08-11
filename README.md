@@ -87,6 +87,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2888-minimum-index-of-a-valid-split](https://github.com/nisanil03/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/nisanil03/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nisanil03/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nisanil03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nisanil03/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nisanil03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nisanil03/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -510,6 +511,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nisanil03/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nisanil03/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nisanil03/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nisanil03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/nisanil03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nisanil03/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nisanil03/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -1048,6 +1050,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2887-sort-vowels-in-a-string](https://github.com/nisanil03/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nisanil03/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nisanil03/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nisanil03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/nisanil03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nisanil03/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nisanil03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
