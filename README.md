@@ -91,6 +91,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nisanil03/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nisanil03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nisanil03/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nisanil03/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nisanil03/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nisanil03/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/nisanil03/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -727,6 +728,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2887-sort-vowels-in-a-string](https://github.com/nisanil03/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nisanil03/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nisanil03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nisanil03/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/nisanil03/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nisanil03/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nisanil03/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1367,6 +1369,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [2626-count-the-number-of-good-subarrays](https://github.com/nisanil03/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/nisanil03/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nisanil03/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nisanil03/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nisanil03/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nisanil03/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nisanil03/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
