@@ -297,6 +297,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/nisanil03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/nisanil03/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/nisanil03/Leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/nisanil03/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/nisanil03/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -879,6 +880,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0498-diagonal-traverse](https://github.com/nisanil03/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/nisanil03/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/nisanil03/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/nisanil03/Leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/nisanil03/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/nisanil03/Leetcode/tree/master/0945-snakes-and-ladders) |
