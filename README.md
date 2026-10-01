@@ -648,6 +648,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nisanil03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nisanil03/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/nisanil03/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/nisanil03/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -1521,6 +1522,7 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nisanil03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nisanil03/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/nisanil03/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/nisanil03/Leetcode/tree/master/0937-online-stock-span) |
@@ -1961,5 +1963,6 @@ Leetcode code saved in this Daily problem solution in this repo
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nisanil03/Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nisanil03/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
