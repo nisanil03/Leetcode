@@ -22,6 +22,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nisanil03/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/nisanil03/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nisanil03/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/nisanil03/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nisanil03/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/nisanil03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/nisanil03/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -219,6 +220,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0854-making-a-large-island](https://github.com/nisanil03/Leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/nisanil03/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/nisanil03/Leetcode/tree/master/1036-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/nisanil03/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nisanil03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nisanil03/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/nisanil03/Leetcode/tree/master/1306-jump-game-iii) |
@@ -669,6 +671,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [1006-vowel-spellchecker](https://github.com/nisanil03/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nisanil03/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nisanil03/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/nisanil03/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nisanil03/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1160-letter-tile-possibilities](https://github.com/nisanil03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/nisanil03/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -1018,6 +1021,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0761-special-binary-string](https://github.com/nisanil03/Leetcode/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/nisanil03/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/nisanil03/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/nisanil03/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nisanil03/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/nisanil03/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/nisanil03/Leetcode/tree/master/1340-jump-game-v) |
@@ -1530,6 +1534,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0678-valid-parenthesis-string](https://github.com/nisanil03/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/nisanil03/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/nisanil03/Leetcode/tree/master/0937-online-stock-span) |
+| [1096-brace-expansion-ii](https://github.com/nisanil03/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nisanil03/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nisanil03/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nisanil03/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1784,6 +1789,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [0401-binary-watch](https://github.com/nisanil03/Leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/nisanil03/Leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/nisanil03/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/nisanil03/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/nisanil03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nisanil03/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nisanil03/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
