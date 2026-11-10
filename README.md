@@ -632,6 +632,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nisanil03/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/nisanil03/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nisanil03/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/nisanil03/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nisanil03/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nisanil03/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nisanil03/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -878,6 +879,7 @@ Leetcode code saved in this Daily problem solution in this repo
 | [3651-minimum-cost-path-with-teleportations](https://github.com/nisanil03/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/nisanil03/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/nisanil03/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3693-climbing-stairs-ii](https://github.com/nisanil03/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/nisanil03/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/nisanil03/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nisanil03/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
